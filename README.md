@@ -13,7 +13,7 @@ AI đưa ra quyết định bằng thuật toán Minimax kết hợp với Cắt
 1. **Thuật toán Minimax**: Đánh giá đệ quy tất cả các trạng thái trò chơi có thể và chọn nước đi tối ưu.
 2. **Cắt tỉa Alpha-Beta**: Giảm số lượng nút cần đánh giá trong thuật toán Minimax, giúp tối ưu hóa hiệu suất.
 3. **Một số cải tiến khác để nhằm giảm thời gian tính toán của thuật toán**
-Chi tiết báo cáo: https://drive.google.com/file/d/1cX-fCOkPsZaDjsS85olJXwFEnvSzhihU/view?usp=drive_link
+4. Chi tiết báo cáo: https://drive.google.com/file/d/1cX-fCOkPsZaDjsS85olJXwFEnvSzhihU/view?usp=drive_link
 
 
 # Hướng dẫn chạy
